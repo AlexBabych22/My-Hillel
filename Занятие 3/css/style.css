@@ -1,0 +1,322 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+}
+
+/* First_styles */
+.First{
+    background-color: white;
+    width: 1440px;
+    margin: 0 auto;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Second_styles */
+.second-block {
+  width: 90%;
+  margin: auto auto;
+  padding-top: 40px;
+}
+.second {
+  width: 32%;
+  display: inline-block;
+}
+
+.first-title {
+  text-align: center;
+}
+.social-icons {
+    text-align: right;
+    display: inline;
+    float: right;
+    }  
+
+  .social-icons li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    }
+
+  .social-icons li a {
+    border-bottom: none;
+    }
+
+  .social-icons li img {
+    width:30px;
+    height:30px;
+    margin-left: 10px;
+    }
+
+/* Third_styles */
+.third-block {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.third-img {
+  float: right;
+  vertical-align: middle;
+  margin: 7px 0px 7px 7px;
+}
+
+
+/* Fourth_styles */
+
+.fourth-block {
+  background-color: #fd8624;
+  margin: 40px auto 0 auto;
+  text-align: center;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.fourth-h-block { 
+  max-width: 250px;
+  margin: 0 auto;
+}
+
+.fourth-h {
+  margin: auto;
+  font-size: 72px;
+  line-height: 0.9em;
+  padding-bottom: 20px;
+  color: #ffffff;
+  text-align: center;
+}
+
+.fourth-p {
+  max-width: 240px;
+  text-align: justify;
+  margin: auto;
+  padding-bottom: 40px;
+  color: #ffffff;
+}
+
+    .btn {
+    background: #fff; 
+    color: #292d33; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none;
+    border-radius: 10px;
+    }
+
+
+/* Fifth_styles */
+.fifth-block {
+  margin: 0;
+  background-color: #292d33;
+  color: #f2ffff;
+  padding-bottom: 50px;
+}
+
+.fifth-h {
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.fifth-table {
+  width: 90%;
+  margin: 0;
+  border-collapse: collapse
+}
+
+.td-table {
+  border: 1px solid #5d6164;
+}
+
+.tr-1 {
+  width: 25%;
+  color: #292d33;
+  background-color: #ffffff;
+}
+.td-2 {
+  width: 25%;
+  background-color: #fd8624;
+  color: #ffffff;
+  text-align: center
+}
+
+.td-3 {
+  width: 25%;
+  background-color: #d9525c;
+  color: #fff;
+  text-align: center
+}
+
+.td-4 {
+  width: 25%;
+  background-color: #38cdc3;
+  color: #fff;
+  text-align: center
+}
+
+.td-oll {
+  text-align: center
+}
+
+.td-check {
+  font-weight: bold;
+  font-size: 42px;
+}
+
+.td-check-color {
+  color: #7a6b91;
+}
+
+.td-color {
+  font-size: 42px;
+  font-weight: bold;
+}
+
+.td-color-1 {
+  color: #fd8624;;
+}
+
+.td-color-2 {
+  color: #d9525c;
+}
+
+.td-color-3 {
+  color: #38cdc3;
+}
+    .btn-1 {
+    display: inline-block; 
+    background:  #d9525c; 
+    color: #fff; 
+    padding: 1rem 1.5rem; 
+    text-decoration: none;
+    border-radius: 10px;
+    }
+
+  /* Sixth_styles */
+
+  .sixth-block {
+    width: 90%;
+    margin: 30px auto 80px auto;
+    overflow: hidden;
+  }
+
+  .sixth-img-1 {
+    width: 50%;
+    float: left;
+    position: relative;
+  }
+
+  .sixth-img-1 > div {
+    margin-right: 5px;
+  }
+
+  .sixth-text {
+    position: absolute;
+    bottom: 250px;
+    left: 80px;
+    color: #fff;
+  }
+
+  .sixth-img-2 {
+    width: 50%;
+    float: right;
+  }
+
+  .sixth-img-2 > div {
+    margin-left: 5px;
+  }
+
+  .img-1 {
+    width: 100%;
+  }
+
+  .img-2 {
+    width: 100%;
+    margin-bottom: 10px
+  }
+  .img-2 img {
+    width: 100%;
+    display: block;
+  }
+
+  .img-3 {
+    width: 50%;
+    float: left;
+  }
+
+  .img-3 img {
+    width: 100%;
+    display: block;
+  }
+
+  .img-4 {
+    width: 50%;
+    float: right;
+  }
+
+  .img-4 img {
+    width: 100%;
+    display: block;
+  }
+
+  .img-3-wrap {
+    margin-right: 9px;
+  }
+
+  .img-4-wrap {
+    margin-left: 9px;
+  }
+
+  /* seventh_style */
+.seventh-block {
+  width: 90%;
+  margin: 30px auto 30px auto;
+  padding: 30px 0;
+  overflow: hidden;
+}
+
+.sevent {
+  float: left;
+  margin-top: 20px;
+}
+  .seventh-img-1 {
+    width: 66%;
+    float: left;
+  }
+
+  .seventh-img-2 {
+    width: 33%;
+    float: right;
+  }
+
+  .seventh-blok-2 {
+    float: left;
+    display: block;
+    width: 33%;
+  }
+
+  .seventh-blok-3 {
+    float: right;
+    width: 66%;
+  }
+
+  .seventh-img-3 {
+    float: right;
+    width: 30%;
+  }
+
+  .seventh-h {
+    width: 70%;
+    text-align: center;
+    margin-top: 150px;
+  }
+
+  .seventh-box {
+    vertical-align: middle;
+    float: right;
+    width: 100%;
+  }
+
+  .seventh-blok-3 p {
+    margin-top: 30px;
+    float: left;
+    text-align: center;
+  }
