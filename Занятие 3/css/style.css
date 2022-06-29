@@ -320,3 +320,11 @@ body {
     float: left;
     text-align: center;
   }
+
+  /* eighth_style */
+  .eighth {
+    width: 90%;
+    margin: 30px auto 30px auto;
+  }
+
+  
